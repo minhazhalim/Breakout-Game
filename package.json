@@ -1,0 +1,15 @@
+{
+  "name": "breakout-game",
+  "version": "1.0.0",
+  "description": "Creating a Breakout Game With HTML,JavaScript and Parcel.js Bundler",
+  "main": "main.html",
+  "scripts": {
+    "start": "parcel main.html --open",
+    "build": "parcel build main.html"
+  },
+  "author": "Minhaz Halim",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
